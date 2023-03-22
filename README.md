@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jwrussell26
-- 👀 I’m interested in automation, data transformations, and data modeling
+- 👀 I’m interested in machine learning, data transformations, and big data
 - 🌱 I’m currently learning dbt, Data Warehousing, and data ingestion
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
